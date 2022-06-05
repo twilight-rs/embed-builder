@@ -2,6 +2,8 @@
 //!
 //! [![codecov badge][]][codecov link] [![discord badge][]][discord link] [![github badge][]][github link] [![license badge][]][license link] ![rust badge]
 //!
+//! **This crate has been archived. Please use [`twilight-util`] instead.**
+//!
 //! `twilight-embed-builder` is a set of builder for the [`twilight-rs`]
 //! ecosystem to create a message embed, useful when creating or updating
 //! messages.
@@ -37,6 +39,7 @@
 //! ```
 //!
 //! [`twilight-rs`]: https://github.com/twilight-rs/twilight
+//! [`twilight-util`]: https://crates.io/crates/twilight-util
 //! [codecov badge]: https://img.shields.io/codecov/c/gh/twilight-rs/twilight?logo=codecov&style=for-the-badge&token=E9ERLJL0L2
 //! [codecov link]: https://app.codecov.io/gh/twilight-rs/twilight/
 //! [discord badge]: https://img.shields.io/discord/745809834183753828?color=%237289DA&label=discord%20server&logo=discord&style=for-the-badge
